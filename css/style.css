@@ -1,0 +1,50 @@
+.faq h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.mainhead{
+    margin-bottom: 24px;
+}
+.faq p{
+    line-height: 28px;
+    max-width: 890px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.py-80{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.accordion-item{
+    border: none;
+}
+.accordion-button:not(.collapsed){
+    color: black;
+    background-color: #fff;
+}
+
+.accordion-button{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #000;
+    margin: 0;
+    padding: 20px 5px 12px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+p{
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #4c5a67;
+    margin: 0;
+    max-width: 100%;
+    padding-right: 40px;
+}
